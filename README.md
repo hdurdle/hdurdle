@@ -21,5 +21,4 @@ My background is information security in defence and finance, but I've worked at
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hdurdle?label=Follow)](https://twitter.com/hdurdle)
 [![Linkedin: hdurdle](https://img.shields.io/badge/-Howard%20Durdle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hdurdle/)](https://www.linkedin.com/in/hdurdle/)
-![Profile views](https://gpvc.arturio.dev/hdurdle)
 ![Website](https://img.shields.io/website?up_message=durdle.com&url=https%3A%2F%2Fdurdle.com)
