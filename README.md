@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ### Howard Durdle
 
-My background is information security in defence and finance, but I've worked at every level of the tech stack from bare metal systems and networking, through IT management, software development and C-level positions. Professionally I now work with SMEs to improve their security posture and enhance their IT and Software Development functions. As a hobbyist, I spend time with home automation and electronics - such as the ESP 8266 and related chips.  Most of my GitHub stuff is work that integrates with systems like  [Home Assistant](https://github.com/home-assistant/core) and [Magic Mirror](https://github.com/MichMich/MagicMirror) to do useful things like [track where my cats are](https://cats.durdle.com).
+My background is information security in defence and finance, but I've worked at every level of the tech stack from bare metal systems and networking, through IT management, software development and C-level positions. Professionally I now work with SMEs to improve their security posture and enhance their IT and Software Development functions. As a hobbyist, I spend time with home automation and electronics - such as the ESP32 and related chips.  Most of my GitHub stuff is work that integrates with systems like  [Home Assistant](https://github.com/home-assistant/core) to do useful things like [track where my cats are](https://cats.durdle.com).
 
 <img src="https://github-readme-stats.vercel.app/api?username=hdurdle&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hdurdle?label=Follow)](https://twitter.com/hdurdle)
 [![Linkedin: hdurdle](https://img.shields.io/badge/-Howard%20Durdle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hdurdle/)](https://www.linkedin.com/in/hdurdle/)
 [![Website](https://img.shields.io/website?up_message=durdle.com&url=https%3A%2F%2Fdurdle.com)](https://durdle.com/)
-[![Mastodon](https://img.shields.io/badge/@howard-@durdle.social-blue)](https://durdle.social/@howard)
